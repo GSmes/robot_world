@@ -1,0 +1,11 @@
+---
+robots:
+- id: 2
+  name: Dingus
+  city: Chicago
+  state: Illinois
+  avatar: https://robohash.org/nai.palm
+  birthdate: 09/21/1987
+  date_hired: 06/29/16
+  department: Swag
+total: 2
